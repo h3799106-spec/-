@@ -1,0 +1,5 @@
+{
+  "name": "MagicStudio 魔法写真馆",
+  "description": "专业的AI写真工具，由 Gemini 2.5 Flash (Nano Banana) 驱动。上传照片并输入自定义指令，即刻生成两组风格独特的专业大片。",
+  "requestFramePermissions": []
+}
